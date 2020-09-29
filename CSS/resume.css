@@ -4,15 +4,15 @@
   z-index: 2000;
 }
 #resume-panel .transparent {
-  background-color: hsla(0, 100%, 100%, 0.3);
+  background-color: hsla(34, 100%, 100%, 0.3);
 }
 #resume #resume-header {
-  background-color: hsla(0, 100%, 100%, 0.5);
+  background-color: hsla(34, 100%, 100%, 0.5);
   text-align: center;
 
 }
 #resume a {
-  color: black;
+  color: var(--black);
 }
 #resume a:hover {
   text-decoration: none;

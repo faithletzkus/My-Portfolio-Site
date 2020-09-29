@@ -3,22 +3,22 @@ svg  {
   position: absolute;
 }
 #about-panel path {
-  fill: var(--red);
-}
-#resume-panel path {
   fill: var(--green);
 }
+#resume-panel path {
+  fill: var(--mauve);
+}
 #contact-panel path {
-  fill: var(--yellow);
+  fill: var(--beige);
 }
 #projects-panel path {
-  fill: var(--red);
+  fill: var(--mauve);
 }
 #designs-panel #top {
-  fill: var(--gray);
+  fill: var(--beige);
 }
 #footer-path path {
-  fill: var(--red);
+  fill: var(--green);
   position: absolute;
 }
 .squiggle {

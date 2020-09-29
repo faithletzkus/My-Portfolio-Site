@@ -6,7 +6,7 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: var(--red);
+  background-color: var(--green);
 }
 h1, h2 {
   position: absolute;

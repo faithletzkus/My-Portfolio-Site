@@ -9,9 +9,10 @@
   padding: 40px 0px;
   max-height: 600px;
   overflow-y: scroll;
+  border-radius: 15px;
 }
 #about-text a {
-  color: var(--yellow);
+  color: var(--green);
 }
 #about .sub {
   margin: 30px;
@@ -32,10 +33,11 @@
   width: 320px;
 }
 #about #about-face .transparent {
+  border-radius: 15px;
   box-sizing: border-box;
-  background-color: hsla(360, 100%, 100%, 0.3);
+  background-color: hsla(33, 100%, 100%, 0.3);
   position: absolute;
-  height: 340px;
+  height: 365px;
   margin-top: 40px;
   padding-bottom: 50px;
   width: 320px;

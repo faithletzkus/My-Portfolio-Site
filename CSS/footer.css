@@ -3,12 +3,12 @@
   position:absolute;
   height: 100px;
   width: 100%;
-  background-color: var(--gray);
+  background-color: var(--beige);
 }
 #footer {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#efefef+34,e14154+38 */
-  background: var(--red); /* Old browsers */
-  background: linear-gradient(to bottom, transparent 27%, var(--red) 29%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background: var(--green); /* Old browsers */
+  background: linear-gradient(to bottom, transparent 27%, var(--green) 29%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   position: absolute;
   z-index: 20;
   width: 100%;
@@ -30,7 +30,7 @@
 #footer-date {
   margin-top: 365px;
   position: relative;
-  background-color: var(--red);
+  background-color: var(--green);
   width: 270px;
   padding-left: 20px;
 }
@@ -42,7 +42,7 @@
   margin-top: -27px;
 }
 #footer i {
-  color: var(--light-red);
+  color: var(--off-white);
   font-size: 1.5em;
   margin-right: 10px;
 }

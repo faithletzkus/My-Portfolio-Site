@@ -73,7 +73,7 @@ function doAnimation() {
 
 
       var currentColor = "white";//colorPicker.current();
-      var nextColor = "#E14154";//colorPicker.next();
+      var nextColor = "#005961";//colorPicker.next();
       var targetR = calcPageFillRadius(e.pageX, e.pageY);
       var rippleSize = Math.min(200, (cW * .4));
       var minCoverDuration = 1000;

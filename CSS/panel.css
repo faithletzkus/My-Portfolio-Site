@@ -16,24 +16,24 @@
 
 #about-panel {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#3b3094+14,1f8982+91 */
-  background: var(--green); /* Old browsers */
-  background: linear-gradient(to bottom, var(--purple) 14%, var(--green) 91%);
+  background: var(--pink); /* Old browsers */
+  background: linear-gradient(to bottom, var(--pink) 7%, var(--orange) 30%, var(--mauve) 100%);
 }
 #resume-panel {
-  background-color: var(--yellow);
+  background-color: var(--beige);
 }
 #contact-panel{
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#3b3094+0,e14154+100 */
-  background: var(--red); /* Old browsers */
-  background: linear-gradient(to bottom, var(--purple) 3%, var(--red) 90%);
+  background: var(--pink); /* Old browsers */
+  background: linear-gradient(to bottom, var(--pink) 7%, var(--orange) 30%, var(--mauve) 100%);
 }
 #projects-panel  {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#efefef+0,e6e6e6+100 */
-  background: var(--gray); /* Old browsers */
-  background: linear-gradient(to bottom, var(--light-gray) 10%, var(--gray) 70%);
+  background: var(--cream); /* Old browsers */
+  background: linear-gradient(to bottom, var(--cream) 10%, var(--beige) 70%);
 }
 #designs-panel {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#efefef+0,e6e6e6+100 */
-  background-color: var(--gray); /* Old browsers */
-  background: linear-gradient(to bottom, var(--light-gray) 10%, var(--gray) 70%);
+  background-color: var(--beige); /* Old browsers */
+  background: linear-gradient(to bottom, var(--cream) 10%, var(--beige) 70%);
 }

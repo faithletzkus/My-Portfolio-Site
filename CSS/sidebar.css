@@ -28,7 +28,7 @@
   display: flex;
   justify-content: space-between;
   width: 150px;
-  background-color: hsla(360, 100%, 100%, 0.7);
+  background-color: hsla(34, 9%, 96%, 0.6);
   height: 100%;
 }
 #sidebar-content {
@@ -64,7 +64,7 @@
   margin-top: 10px;
 }
 #sidebar i:hover {
-  color: black;
+  color: hsl(0, 0%, 20%);
   font-size: 1.305em;
   transition: 0.5s;
 }

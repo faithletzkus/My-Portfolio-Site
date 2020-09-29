@@ -7,35 +7,33 @@ p {
 
 /* colors used throughout */
 :root {
-  --red: #E14154;
-  --green: hsl(176,63%,33%);
-  --purple: #3B3094;
-  --yellow: #FFC000;
-  --light-red: #E598A0;
-  --light-green: #7DBDB9;
-  --light-purple: #978FD4;
-  --light-yellow: #FFE8A3;
+  --pink: #FF5C79;
+  --orange: #FF6C5B;
+  --mauve: #EB9287;
+  --green: #005961;
+  --blue: #74B9B1;
+  --beige: #F4EADD;
+  --cream: #FFF7EE;
+  --white: #FFFFFF;
 
-  --gray: hsl(0,0%,85%);
-  --light-gray: hsl(0,0%,97%);
-
-  --transparent: hsla(0, 100%, 100%, 0.15);
+  --transparent: hsla(34, 9%, 96%, 0.2);
+  --off-white: hsla(34, 9%, 96%, 0.7);
 }
 
-.red {
-  background-color: var(--red);
-}
 .green {
   background-color: var(--green);
 }
-.purple {
-  background-color: var(--purple);
+.blue {
+  background-color: var(--blue);
 }
-.yellow {
-  background-color: var(--yellow);
+.pink {
+  background-color: var(--pink);
 }
-.light-red {
-  background-color: var(--light-red);
+.mauve {
+  background-color: var(--mauve);
+}
+.beige {
+  background-color: var(--beige);
 }
 .light-green {
   background-color: var(--light-green);
@@ -49,4 +47,7 @@ p {
 
 .transparent {
   background-color: var(--transparent);
+}
+.off-white {
+  background-color: var(--off-white);
 }
